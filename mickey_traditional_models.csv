@@ -1,0 +1,29 @@
+startphrase,ending1,ending2,ending3,ending4,label,min_surprisal_gpt2,min_surprisal_t5,min_surprisal_bert
+The sky is,The sky is red,The sky is green,The sky is blue,The sky is orange,3,3,3,3
+two plus two is,two plus two is four,two plus two is two,two plus two is eleven,two plus two is three,1,2,2,3
+three minus one is,three minus one is three,three minus one is four,three minus one is one,three minus one is two,4,3,3,2
+eight minus seven is,eight minus seven is two,eight minus seven is seven,eight minus seven is one,eight minus seven is eight,3,3,2,3
+ten minus nine is,ten minus nine is eight,ten minus nine is ten,ten minus nine is nine,ten minus nine is one,4,4,3,4
+six minus five is,six minus five is four,six minus five is six,six minus five is one,six minus five is five,3,3,4,3
+eleven minus ten,eleven minus ten ten,eleven minus ten one,eleven minus ten eleven,eleven minus ten nine,2,2,1,2
+twelve minus eleven,twelve minus eleven nine,twelve minus eleven eleven,twelve minus eleven one,twelve minus eleven twelve,3,1,1,3
+one plus two,one plus two one,one plus two two,one plus two four,one plus two three,4,2,2,4
+two plus three is,two plus three is four,two plus three is three,two plus three is two,two plus three is five,4,1,2,3
+three plus four is,three plus four is three,three plus four is one,three plus four is four,three plus four is seven,4,2,3,2
+four plus five is,four plus five is five,four plus five is four,four plus five is nine,four plus five is once,3,2,3,4
+five plus six is,five plus six is six,five plus six is one,five plus six is five,five plus six is eleven,4,2,1,2
+six plus seven is,six plus seven is seven,six plus seven is one,six plus seven is thirteen,six plus seven is six,3,2,1,2
+seven plus eight is,seven plus eight is fifteen,seven plus eight is one,seven plus eight is eight,seven plus eight is seven,1,2,3,2
+one plus four is,one plus four is five,one plus four is two,one plus four is one,one plus four is four,1,3,3,3
+one plus six is,one plus six is seven,one plus six is eight,one plus six is one,one plus six is six,1,3,3,3
+one plus seven is,one plus seven is seven,one plus seven is one,one plus seven is eight,one plus seven is two,3,2,2,2
+one plus nine is,one plus nine is two,one plus nine is nine,one plus nine is ten,one plus nine is one,3,4,4,4
+8 divided by 2,8 divided by 2 ten,8 divided by 2 eight,8 divided by 2 two,8 divided by 2 four,4,3,2,3
+1 + 2 is,1 + 2 is 2,1 + 2 is 1,1 + 2 is 3,1 + 2 is 5,3,2,1,4
+2+2=,2+2= 1,2+2= 4,2+2= 8,2+2= 9,2,1,1,1
+Cats go meow. Ducks go,Cats go meow. Ducks go quak.,Cats go meow. Ducks go gaga.,Cats go meow. Ducks go woof.,Cats go meow. Ducks go moo,1,4,4,4
+1 plus 1 plus 1 equals to,1 plus 1 plus 1 equals to 4,1 plus 1 plus 1 equals to 2,1 plus 1 plus 1 equals to 1,1 plus 1 plus 1 equals to 3,4,3,3,3
+2 plus 3 equals to,2 plus 3 equals to 1,2 plus 3 equals to 2,2 plus 3 equals to 5,2 plus 3 equals to 3,3,1,4,1
+2 + 2 = ?,2 + 2 = ? 2,2 + 2 = ? 1,2 + 2 = ? 4,2 + 2 = ? 3,3,2,1,2
+3 plus 3 equals to ?,3 plus 3 equals to ? 333,3 plus 3 equals to ? 6,3 plus 3 equals to ? 3,3 plus 3 equals to ? 33,2,3,3,3
+2 times 3 is,2 times 3 is 3,2 times 3 is 6,2 times 3 is 2,2 times 3 is 8,2,1,1,3
